@@ -13,3 +13,5 @@ $res = $extractor->extract();
 print_r($res);
 $extractor->saveFile($res);
 ```
+
+© Copyright 2021, Max Base
